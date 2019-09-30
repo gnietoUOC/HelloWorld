@@ -1,2 +1,2 @@
 print('Genaro es el mejor.')
-print('Sun 09/29/2019')
+print('Mon 09/30/2019')
