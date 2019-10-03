@@ -2,5 +2,10 @@
 
 import sys
 
-print('Genaro es el mejor.')
-print('Sun 09/29/2019')
+def main():
+	print('Genaro es el mejor.')
+	print('Thu 10/03/2019')
+
+if __name__ == '__main__':
+	sys.exit(main())
+ 
